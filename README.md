@@ -19,3 +19,6 @@ The code consists of the following:
  - In /plotting/: Various scripts for creating different plots for the thesis.
  - In /tabulation/: Various scripts for tabulating results and calculating performance metrics.
 
+To easily run this code, type "git clone https://github.com/jackmheller/logisticMulticarving" into your R terminal. After that, you can open the .RProj on your machine to set the proper directories. 
+
+
